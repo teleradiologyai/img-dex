@@ -1,3 +1,4 @@
+
 MedicalImageExchange
 
 MedicalImageExchange is a smart contract for exchanging medical images using TeleradiologyAI and TRAI coin. This contract enables users to create non-fungible tokens (NFTs) representing different types of medical images, including XR, MRI, and CT scans. These NFTs can then be exchanged among users in exchange for TRAI coins.
